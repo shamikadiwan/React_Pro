@@ -16,4 +16,6 @@
 
 • How to write and import multiple components
 
-• Importance of keeping components small and reusable
+• Importance of keeping components small and reusable.
+• I have also used the Vite for creating the project with Vite + React module 
+• I have run the commands on terminal & install the Vite and run the project which named as "vitereact"
