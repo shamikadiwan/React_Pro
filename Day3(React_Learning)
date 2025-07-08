@@ -1,0 +1,44 @@
+# React Basics & Comparison Notes 🚀
+
+This repository contains my learning notes on React, React Native, and Angular. I've documented key differences, pros/cons, and core concepts for quick reference and sharing.
+
+---
+
+## 📚 Topics Covered
+
+### ✅ What is ReactJS?
+- Component-based architecture
+- Virtual DOM
+- Unidirectional data flow
+
+### ✅ Pros & Cons of React
+
+**Pros**
+- Reusable components
+- Fast rendering using Virtual DOM
+- Strong community & ecosystem
+
+**Cons**
+- Learning curve with JSX
+- Needs additional libraries for full setup (routing, state, etc.)
+
+---
+
+### 🆚 ReactJS vs React Native
+
+| Feature         | ReactJS                      | React Native                |
+|----------------|------------------------------|-----------------------------|
+| Purpose         | Web Development              | Mobile App Development      |
+| Platform        | Browser (HTML/CSS)           | Android & iOS (Native APIs) |
+| Styling         | CSS                          | StyleSheet API              |
+
+---
+
+### 🆚 ReactJS vs Angular
+
+| Feature        | ReactJS                        | Angular                     |
+|----------------|--------------------------------|-----------------------------|
+| Type           | Library                        | Framework                   |
+| Language       | JavaScript / JSX               | TypeScript                  |
+| DOM            | Virtual DOM                    | Real DOM                    |
+| Learning Curve | Moderate                       | Steep                       |
